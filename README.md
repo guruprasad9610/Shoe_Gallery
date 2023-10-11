@@ -16,37 +16,37 @@ Shoe Gallery is more than just an online shoe store; it's a fashion-forward mark
 
 Our online shoe store comes equipped with a variety of features to enhance your shopping experience:
 
-User-Friendly Interface:
+#### User-Friendly Interface:
 Our website offers an intuitive and user-friendly design, making it effortless to browse and shop for your favorite shoes.
 
-Extensive Catalog:
+#### Extensive Catalog:
 Explore a vast collection of shoes for all occasions, including athletic footwear, casual sneakers, elegant dress shoes, and more.
 
-Search and Filtering:
+#### Search and Filtering:
 Easily find the shoes you desire with our powerful search and filtering options, allowing you to sort by size, color, brand, and style.
 
-Detailed Product Pages:
+#### Detailed Product Pages:
 Each product page provides comprehensive information about the shoes, including high-quality images, descriptions, sizes, prices, and customer reviews.
 
-Secure Checkout:
+#### Secure Checkout:
 We prioritize the security of your personal and payment information, ensuring a safe and stress-free shopping experience.
 
-User Accounts:
+#### User Accounts:
 Create an account to save your favorite items, track your orders, and receive personalized recommendations.
 
-Responsive Design:
+#### Responsive Design:
 Our website is designed to work seamlessly on desktops, tablets, and mobile devices, so you can shop on the go.
 
-Wide Selection:
+#### Wide Selection:
 Choose from a diverse range of shoe styles, including sneakers, boots, sandals, formal footwear, and much more.
 
-Quality Brands:
+#### Quality Brands:
 We collaborate with top shoe brands to ensure that you receive the finest quality footwear.
 
-User-Friendly Navigation:
+#### User-Friendly Navigation:
 Our website's intuitive design makes browsing and shopping a breeze.
 
-Responsive Customer Support:
+#### Responsive Customer Support:
 Our dedicated customer support team is here to assist you with any questions or concerns.
 
 #### Regular Updates:
