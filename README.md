@@ -49,8 +49,8 @@ Our website's intuitive design makes browsing and shopping a breeze.
 Responsive Customer Support:
 Our dedicated customer support team is here to assist you with any questions or concerns.
 
-### Regular Updates:
+#### Regular Updates:
 Stay updated with the latest shoe trends and collections.
 
-### Convenient Shopping:
+#### Convenient Shopping:
 Enjoy the convenience of shopping 24/7 from anywhere, and have your purchases delivered to your doorstep.
