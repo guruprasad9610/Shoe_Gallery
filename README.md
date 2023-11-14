@@ -4,7 +4,7 @@ Shoe Gallery is a web-based e-commerce platform designed to make your online sho
 
 ## Deployed Link
 
-https://shoegallery.netlify.app/
+https://shoegallery.netlify.app
 
 ## About
 
